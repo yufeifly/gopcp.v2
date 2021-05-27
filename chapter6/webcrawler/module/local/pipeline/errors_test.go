@@ -3,7 +3,7 @@ package pipeline
 import (
 	"testing"
 
-	"gopcp.v2/chapter6/webcrawler/errors"
+	"github.com/clyhs/gopcp.v2/chapter6/webcrawler/errors"
 )
 
 func TestErrorGenError(t *testing.T) {

@@ -8,10 +8,10 @@ import (
 	"strings"
 	"sync"
 
-	"gopcp.v2/chapter5/cmap"
-	"gopcp.v2/chapter6/webcrawler/module"
-	"gopcp.v2/chapter6/webcrawler/toolkit/buffer"
-	"gopcp.v2/helper/log"
+	"github.com/clyhs/gopcp.v2/chapter5/cmap"
+	"github.com/clyhs/gopcp.v2/chapter6/webcrawler/module"
+	"github.com/clyhs/gopcp.v2/chapter6/webcrawler/toolkit/buffer"
+	"github.com/clyhs/gopcp.v2/helper/log"
 )
 
 // logger 代表日志记录器。

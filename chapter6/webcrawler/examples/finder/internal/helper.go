@@ -5,7 +5,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"gopcp.v2/helper/log"
+	"github.com/clyhs/gopcp.v2/helper/log"
 )
 
 // 日志记录器。

@@ -7,7 +7,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"gopcp.v2/chapter6/webcrawler/module"
+	"github.com/clyhs/gopcp.v2/chapter6/webcrawler/module"
 )
 
 // genItemProcessors 用于生成条目处理器。

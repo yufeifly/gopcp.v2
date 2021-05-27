@@ -16,7 +16,7 @@ import (
 	"strings"
 	"time"
 
-	"gopcp.v2/helper/log/base"
+	"github.com/clyhs/gopcp.v2/helper/log/base"
 )
 
 // field_decl_template 代表日志字段类型的声明的内容模板。

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"sync"
 
-	"gopcp.v2/chapter6/webcrawler/errors"
+	"github.com/clyhs/gopcp.v2/chapter6/webcrawler/errors"
 )
 
 // Registrar 代表组件注册器的接口。

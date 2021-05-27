@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"testing"
 
-	"gopcp.v2/chapter6/webcrawler/module"
-	"gopcp.v2/chapter6/webcrawler/module/stub"
+	"github.com/clyhs/gopcp.v2/chapter6/webcrawler/module"
+	"github.com/clyhs/gopcp.v2/chapter6/webcrawler/module/stub"
 )
 
 func TestNew(t *testing.T) {

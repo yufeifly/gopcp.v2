@@ -8,8 +8,8 @@ import (
 	"strings"
 	"testing"
 
-	"gopcp.v2/chapter6/webcrawler/module"
-	"gopcp.v2/chapter6/webcrawler/module/stub"
+	"github.com/clyhs/gopcp.v2/chapter6/webcrawler/module"
+	"github.com/clyhs/gopcp.v2/chapter6/webcrawler/module/stub"
 )
 
 // testingReader 代表测试专用的读取器，实现了io.ReadCloser接口类型。

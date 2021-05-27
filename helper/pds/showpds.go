@@ -10,7 +10,7 @@ import (
 	"runtime/debug"
 	"strings"
 
-	"gopcp.v2/helper/pkgtool"
+	"github.com/clyhs/gopcp.v2/helper/pkgtool"
 )
 
 // ARROWS 代表有导入关系的代码包之间的分隔符。

@@ -8,8 +8,8 @@ import (
 	"runtime"
 	"time"
 
-	sched "gopcp.v2/chapter6/webcrawler/scheduler"
-	"gopcp.v2/helper/log"
+	sched "github.com/clyhs/gopcp.v2/chapter6/webcrawler/scheduler"
+	"github.com/clyhs/gopcp.v2/helper/log"
 )
 
 // logger 代表日志记录器。

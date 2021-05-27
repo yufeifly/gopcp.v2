@@ -1,6 +1,6 @@
 package stub
 
-import "gopcp.v2/chapter6/webcrawler/module"
+import "github.com/clyhs/gopcp.v2/chapter6/webcrawler/module"
 
 // ModuleInternal 代表组件的内部基础接口类型。
 type ModuleInternal interface {
